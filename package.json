@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@directus/extensions-sdk": "^9.22.4",
+    "directus": "^9.22.4",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "build": "directus-extension build"
+  }
+}
